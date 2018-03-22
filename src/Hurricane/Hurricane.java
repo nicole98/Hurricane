@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Nicole Tao
+ * Hurricane.java
+ * This program will display a message based on the hurricane category entered
+  * March 22nd, 2018
  */
 
 package Hurricane;
